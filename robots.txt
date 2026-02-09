@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://li-chu-hao.github.io/Minglab//sitemap.xml
+Sitemap: https://li-chu-hao.github.io/Minglab/sitemap.xml
