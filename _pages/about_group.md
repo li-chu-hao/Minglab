@@ -1,0 +1,1 @@
+Group photo in 2025. 
